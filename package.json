@@ -1,0 +1,14 @@
+{
+  "name": "xyz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module_arithematic_operations.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.0.1"
+  }
+}
